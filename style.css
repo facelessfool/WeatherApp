@@ -1,3 +1,42 @@
-.container {
-  background: #2d8dc5;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(img/img2.png);
+  background-size: cover;
+  background-position: top center;
+}
+
+/* .container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+} */
+#city-box {
+  margin-left: 40%;
+  margin-top: 5%;
+  width: 180px;
+  height: 30px;
+  background-color: #e7bb6a;
+
+  background-position: 9px 10px;
+  background-repeat: no-repeat;
+  padding-left: 50px;
+}
+
+#weather-box {
+  margin-left: 40%;
+
+  padding-top: 30px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 50px;
+}
+
+#location-box {
+  margin-left: 40%;
+  padding-top: 25px;
+  font-size: 30px;
 }
