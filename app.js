@@ -23,6 +23,3 @@ fetch(api)
 function displayWeather() {
   weatherElement.innerHTML = Math.floor(temp1 - 273);
   locationElement.innerHTML = cityName;
-}
-
-checking my git account;
