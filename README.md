@@ -1,4 +1,6 @@
 # WeatherApp
 Built this web app to learn about api.
 
-![](img/snapshot.PNG)
+
+<img src="img/snapshot.PNG" height="350" width="250" >
+
